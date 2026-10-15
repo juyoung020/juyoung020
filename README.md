@@ -10,6 +10,3 @@
 
 ## 🎓 Scholarships
 - **2024.02** 전기공사공제조합장학회 장학생 선발
-
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juyoung020&layout=compact&langs_count=8)
